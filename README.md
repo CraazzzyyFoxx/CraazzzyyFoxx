@@ -20,7 +20,7 @@ Software Engineer based in Orel, Russia.
 ---
 
 ## 🌟 Featured Projects
-- [**AQT**](https://github.com/yourusername/project-name)  
+- [**AQT**](https://github.com/CraazzzyyFoxx/anak-tournaments)  
   *AQT provides comprehensive statistics about Anakq's sub-tournaments. This includes the history of past tournaments, player statistics such as tournaments participated in, divisions, teams, heroes, and performance metrics.*
 
 ---
