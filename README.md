@@ -1,6 +1,6 @@
 # Hi there, I'm Andrey 👋
 
-Software Engineer based in Orel, Russia.
+Software Engineer based in Moscow, Russia.
 
 ---
 
