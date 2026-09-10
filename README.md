@@ -20,8 +20,8 @@ Software Engineer based in Moscow, Russia.
 ---
 
 ## 🌟 Featured Projects
-- [**AQT**](https://github.com/CraazzzyyFoxx/anak-tournaments)  
-  *AQT provides comprehensive statistics about Anakq's sub-tournaments. This includes the history of past tournaments, player statistics such as tournaments participated in, divisions, teams, heroes, and performance metrics.*
+- [**OWT**](https://github.com/CraazzzyyFoxx/overwatch-tournaments)  
+  *OWT is a multi-tenant platform for running Overwatch tournaments from registration to post-tournament analytics. It combines public tournament history and player statistics with organizer tooling for workspaces, brackets, live drafts, map vetoes, match-log processing, achievements, streams, and access control.*
 
 ---
 
